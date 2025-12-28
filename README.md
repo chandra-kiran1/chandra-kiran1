@@ -1,9 +1,7 @@
 
 <!-- 💖 Typing animation introduction -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=238C6B&center=true&multiline=true&repeat=false&width=700&height=120&lines=Hi%2C+I'm+Chandra Kiran!;A+Passionate+Learner+and+Developer;Exploring+the+World+of+Tech!" alt="Typing SVG"/>
-  </a>
+  Hi I'm Chandra Kiran, Nice to Meet you!
 </div>
 
 <br/>
@@ -39,7 +37,6 @@
 <!-- Frameworks & Libraries -->
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)&nbsp;
 
 <!-- Backend -->
@@ -57,20 +54,6 @@
 
 <br/>
 
-<!-- 💖 GitHub Stats -->
-<details open>
-<summary><b>⚡ My GitHub Performance</b></summary>
-<br/>
-
-<!-- 💜 GitHub streak stats -->
-<img src="https://streak-stats.demolab.com/?user=khushichetule09&theme=gotham&hide_border=false" width="450" />
-<br/>
-<!-- 💚 Most used languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushichetule09&layout=compact&hide_border=false&title_color=61dafb&text_color=ffffff&bg_color=0d1117" width="450" />
-</details>
-
-<br/>
-
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iknevo/iknevo/output/snake.svg">
@@ -78,7 +61,5 @@
 </picture>
 <br>
 
-
-
 <!-- 💖 Contact -->
-### You can reach me at: **<khushichetule2@gmail.com>**
+### You can reach me at: **<kiran.chandra01231@gmail.com>**
